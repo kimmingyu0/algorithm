@@ -12,7 +12,7 @@ public class SectionStringConcatenated {
 }
 
 /*
- * == 배열 만들기 5 ==
+ * == 부분 문자열 이어 붙여 문자열 만들기 ==
  * 길이가 같은 문자열 배열 my_strings와
  * 이차원 정수 배열 parts가 매개변수로 주어집니다.
  *
